@@ -6,7 +6,7 @@
 
 # イベント
 
-## [Tsukuba Mini Faker Faire][tmmf] に出展します
+## [Tsukuba Mini Maker Faire][tmmf] に出展します
 [tmmf]: https://tmmf.jp/2020/
 
 ## 概要

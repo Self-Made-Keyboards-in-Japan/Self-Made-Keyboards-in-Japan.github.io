@@ -1,7 +1,7 @@
 
 # リンク
 
-- [Dischord](https://discordapp.com/invite/NM7XtDW)
+- [Discord](https://discordapp.com/invite/NM7XtDW)
 - [Scrapbox](https://scrapbox.io/self-made-kbds-ja/)
 
 # イベント
